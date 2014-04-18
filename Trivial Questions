@@ -4,3 +4,21 @@ HTML	What does a beginning tag and an end tag look like?	<tag> </tag>
 HTML	How do web pages use html?	They read and translate the code
 HTML    What can you do with html?	Design a website
 HTML    When was html created?	1991
+CSS	What does CSS stand for?	Cascading Style Sheets
+CSS	What is it used for?	Styles define how to display HTML elements
+CSS	What is stored in CSS files?	External style sheets
+CSS	What is the code for a selector?	h1
+CSS	What is an example of a declaration?	{color:blue;font-size:12px;}
+CSS	What does a declaration always have?	semicolons and brackets
+G	How do commit a change?		git commit
+G	What can you do if you forget a command?	type git help
+G	What is a repository?	A storage space for your projects
+G	How do you make your commits visible online?	type git push
+G	What is a command line?		A program where you type commands for Git
+G	How do you initialize a new repo?	git init
+HI	What does www stand for?	worldwide web
+HI	What was the first web browser?		Mosaic web browser 
+HI	What was the first Microsoft browser?		Cello
+HI	What are websites used for?	free publishing and instant worldwide info
+HI	When did the web start developing?	1980
+HI	Who built ENQUIRE?	Tim Berners- Lee
